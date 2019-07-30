@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1021771545763-99ttv9a082k3gdh0rq210q6gmlt8pgo8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1021771545763-99ttv9a082k3gdh0rq210q6gmlt8pgo8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcTaH4kImlxdmbOS1U_mN-mCx0sJoaS24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1021771545763</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hc.OneThing</string>
+	<key>PROJECT_ID</key>
+	<string>onething-175f8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>onething-175f8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1021771545763:ios:988bf4c42be9901e</string>
+	<key>DATABASE_URL</key>
+	<string>https://onething-175f8.firebaseio.com</string>
+</dict>
+</plist>
