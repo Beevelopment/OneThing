@@ -16,6 +16,8 @@ class Animations: NSObject {
     var mainCollectionViewCell: MainCollectionViewCell?
     var readController: ReadController?
     var purchaseManager: PurchaseManager?
+    var purchaseCell: PurchaseCell?
+    var feedbackLauncher: FeedbackLuncher?
     
     let loadingAnimation: AnimationView = {
         let ani = AnimationView(name: "loading")

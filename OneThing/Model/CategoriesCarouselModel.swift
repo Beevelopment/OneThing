@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+struct CategoriesCarouselModel {
+    let category: String
+}
+
+struct NotificationModel {
+    let notifyContent: String
+    let notifyIdentifier: NotificationIdentifier
+    let schedule: Topics
+}
